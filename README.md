@@ -1,9 +1,8 @@
-# HousePricePredictionAlgorithm
+# ZillowGenie
 
-# Real Estate Price Estimator
 
 ## Overview
-The **Real Estate Price Estimator** is a software tool designed to predict the price categories of properties (affordable, mid-range, and premium housing) based on various property attributes. The prediction is powered by Random Forest Classification and Multiple Regression Analysis, leveraging the **Zillow House Value Dataset** from Kaggle. 
+**ZillowGenie** is a software tool designed to predict the price categories of properties (affordable, mid-range, and premium housing) based on various property attributes. The prediction is powered by Random Forest Classification and Multiple Regression Analysis, leveraging the **Zillow House Value Dataset** from Kaggle. 
 
 The tool employs efficient data structures like **Heaps** for filtering properties, querying price ranges, and clustering similar properties. It also offers a range of data visualizations to help analyze trends and feature correlations.
 
